@@ -6,3 +6,6 @@ This sensor works on MODBUS-RTU RS485 protocol.
 To inteface it with a PC you need an RS485-USB adapter. I use [USB2-H-5002-M adapter](https://ro.mouser.com/ProductDetail/Connective-Peripherals/USB2-H-5002-M?qs=3ndysOCld3dM1CbaZGsvng%3D%3D).
 
 The demo software is written in Python. It requires [minimalmodbus](https://pypi.org/project/minimalmodbus/) python package to work.
+
+
+For extra feature or custom solution contact me at elisei.ilies@gmail.com
