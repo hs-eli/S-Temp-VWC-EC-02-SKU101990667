@@ -10,3 +10,5 @@ The demo software is written in Python. It requires [minimalmodbus](https://pypi
 [GitHub link.](https://github.com/hs-eli/S-Temp-VWC-EC-02-SKU101990667)
 
 For extra feature or custom solution contact me at elisei.ilies@gmail.com
+
+<meta name="google-site-verification" content="L5GwuTYfi1wImo8qK0WzJogetcQuOCvGsF6PZ_RPmII" />
