@@ -11,4 +11,4 @@ The demo software is written in Python. It requires [minimalmodbus](https://pypi
 
 For extra feature or custom solution contact me at elisei.ilies@gmail.com
 
-<meta name="google-site-verification" content="L5GwuTYfi1wImo8qK0WzJogetcQuOCvGsF6PZ_RPmII" />
+<meta name="google-site-verification" content="Cbso4XyPnaX43D14qzIiJ3otTk-4j3vQJJO1IZljNkY" />
