@@ -7,5 +7,6 @@ To inteface it with a PC you need an RS485-USB adapter. I use [USB2-H-5002-M ada
 
 The demo software is written in Python. It requires [minimalmodbus](https://pypi.org/project/minimalmodbus/) python package to work.
 
+[GitHub link.](https://github.com/hs-eli/S-Temp-VWC-EC-02-SKU101990667)
 
 For extra feature or custom solution contact me at elisei.ilies@gmail.com
